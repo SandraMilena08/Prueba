@@ -12,6 +12,7 @@ public class Bobita
     private int matitas;
     private int tontita;
     private String hola;
+    private int hola2;
         //
         // TODO: Agregar aquí la lógica del constructor
         //
