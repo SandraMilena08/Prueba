@@ -8,15 +8,12 @@ using System.Web;
 /// </summary>
 public class Bobita
 {
-<<<<<<< HEAD:ProyectoEjemplo/EjemploPrueba/EjemploPrueba/App_Code/Bobita.cs
-    
     private int edad;
     private int matitas;
     private int tontita;
+    private String hola;
         //
         // TODO: Agregar aquí la lógica del constructor
         //
-    
-=======
->>>>>>> master:ProyectoEjemplo/EjemploPrueba/EjemploPrueba/App_Code/Datos/Bobita.cs
+   
 }
