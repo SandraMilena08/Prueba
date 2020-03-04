@@ -8,10 +8,12 @@ using System.Web;
 /// </summary>
 public class Bobita
 {
-    public Bobita()
-    {
+    
+    private int edad;
+    private int matitas;
+    private int tontita;
         //
         // TODO: Agregar aquí la lógica del constructor
         //
-    }
+    
 }
